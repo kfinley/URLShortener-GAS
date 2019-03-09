@@ -32,5 +32,5 @@ Lookup existing short URL
 ```
     var client = new UrlShortener();
 
-    var originalUrl = client.lookup("https://is.gd/xIXbA6");
+    var originalUrl = client.lookup("https://v.gd/iZWrwj");
 ```
